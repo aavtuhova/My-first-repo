@@ -1,1 +1,1 @@
-# My-first-ripo
+# My-first-repo
